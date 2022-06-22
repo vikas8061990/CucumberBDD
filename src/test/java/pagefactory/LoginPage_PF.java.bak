@@ -46,7 +46,7 @@ public class LoginPage_PF {
 	public void enterPassword(String password) {
 		txt_password.sendKeys(password);
 	}
-	//This is for Demo of GIT
+	
 	public void clickOnLogin() {
 		btn_login.click();
 	}
